@@ -1,0 +1,73 @@
+body p{
+  font-family: open sans;
+}
+
+#bg-image {
+  background-size: cover;
+  background-image: url(images/41H.jpg);
+  height: 850px;
+}
+
+#title {
+  padding-top: 140px;
+  padding-left: 45px;
+  padding-bottom: 30px;
+  color: white;
+  font-size: 50px;
+  font-family: Raleway;
+}
+
+#bg-image p {
+  padding-left: 45px;
+  color: white;
+  line-height: 7px;
+}
+
+#bg-image a {
+  margin-left: 45px;
+  margin-top: 18px;
+}
+
+.bg-danger{
+  padding-top: 50px;
+  height: 420px;
+}
+
+.icones img{
+  width: 130px;
+  height: 130px;
+
+  padding-top: 45px;
+  padding-left: 25px;
+}
+
+.icones h3 {
+  padding-left: 25px;
+  padding-top: 50px;
+}
+
+.icones p {
+  padding-left: 25px;
+}
+
+#form {
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 100px;
+}
+
+#footer {
+  height: 150px;
+  background-color: grey;
+  width: 100%;
+}
+
+#footer img {
+  margin-left: 15px;
+  width: 1.7%;
+  padding-top: 60px;
+}
+
+#footer p {
+  margin-left: 15px;
+  margin-top: 5px;
